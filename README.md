@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CRUD Mahasiswa - Laravel + Bootstrap
 
 Paket ini berisi file sumber untuk ditambahkan ke proyek Laravel baru. Folder `vendor` dan instalasi Laravel inti tidak disertakan; buat proyek Laravel terlebih dahulu.
@@ -61,3 +62,6 @@ Ganti URL remote dengan URL repository milik sendiri. Jangan unggah file `.env` 
 
 ## Catatan
 Paket ini adalah starter code untuk proyek Laravel, bukan seluruh instalasi Laravel. Pastikan versi PHP dan Laravel sesuai dengan lingkungan yang digunakan.
+=======
+# Proyek-UAS-Kelompok-4-Antarmuka-Komputer
+>>>>>>> origin/main
